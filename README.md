@@ -1,4 +1,4 @@
-# yourhospital
+# Samariddhi hospital
 An easy to use, simple and awesome hospital management software built using Java Spring Boot and AngularJS
 
 ## Demo View
